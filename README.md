@@ -1,1 +1,3 @@
-# MySQL_bootcamp_exercises
+Various SQL excercises.
+
+Technologies: MySQL, Workbench.
